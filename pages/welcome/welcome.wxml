@@ -1,0 +1,9 @@
+<!-- wxml是用来编写页面骨架的 -->
+<view class="container">
+  <image class="user-avatar" src="/images/avatar/3.png">
+  </image>
+  <text class="user-name">闻风</text>
+  <view class="moto-container">
+    <text class="moto" bind:tap="OnTap">开启小程序之旅</text>
+  </view>
+</view>

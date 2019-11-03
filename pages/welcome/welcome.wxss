@@ -1,0 +1,36 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+page{
+  background-color: #DEB887;
+  height: 100%;
+}
+.user-avatar{
+  width: 200rpx;
+  height: 200rpx;
+  margin-top: 160rpx;
+}
+.user-name{
+  font-size: 34rpx;
+  font-weight: hold;
+  font-family: MicroSoft Yahei;
+  margin-top: 40rpx;
+  letter-spacing: 2px;
+}
+.moto{
+  font-size: 24rpx;
+  font-weight: hold;
+  font-family: MicroSoft Yahei;
+  line-height: 80rpx;
+}
+.moto-container{
+  border: 1px solid;
+  margin-top: 200rpx;
+  text-align: center;
+  border-radius: 5px;
+  height: 80rpx;
+  width:200rpx;
+
+}
